@@ -7,7 +7,7 @@ import fetchCat from './components/FetchCat';
 import MainCard from './components/MainCard';
 import Form from './components/Form'
 
-//1. test
+
 function CatItem(props) {
   return (
     <li>
